@@ -1,0 +1,9 @@
+{
+  "name": "bs-react-spring",
+  "version": "0.1.0",
+  "description": "Bucklescript bindings for react spring",
+  "main": "src/ReactSpring.bs.js",
+  "repository": "git@github.com:MarcelCutts/bs-react-spring.git",
+  "author": "Marcel Cutts <marcel.cutts@gmail.com>",
+  "license": "MIT"
+}
