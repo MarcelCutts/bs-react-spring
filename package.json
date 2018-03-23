@@ -5,5 +5,12 @@
   "main": "src/ReactSpring.bs.js",
   "repository": "git@github.com:MarcelCutts/bs-react-spring.git",
   "author": "Marcel Cutts <marcel.cutts@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "bs-platform": "^2.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-spring": "^3.0.4",
+    "reason-react": "^0.3.4"
+  }
 }
